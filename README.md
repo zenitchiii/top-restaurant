@@ -81,9 +81,8 @@ This project demonstrates dynamic content rendering, DOM manipulation, and modul
 
 ## 📬 Contact
 
-**Developer:** Zenitchi Itsuka
-📧 Email: [your.email@example.com](mailto:your.email@example.com)
-🌐 GitHub: [yourusername](https://github.com/yourusername)
+**Developer:** Zenitchi
+🌐 GitHub: (https://github.com/zenitchiii)
 
 ---
 
