@@ -1,6 +1,3 @@
-Perfect 👍 — here’s a complete **README.md** for your restaurant webpage project, including proper **credits** for the image you linked.
-This format works perfectly for GitHub or any project documentation.
-
 ---
 
 ### 📄 **README.md**
