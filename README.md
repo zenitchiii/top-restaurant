@@ -1,4 +1,3 @@
-### 📄 **README.md**
 ````markdown
 # 🍽️ TOP Restaurant
 
@@ -29,27 +28,30 @@ This project demonstrates dynamic content rendering, DOM manipulation, and modul
 
 ## 🚀 Getting Started
 
-1. Clone this repository:
+1. **Clone this repository**
    ```bash
    git clone https://github.com/yourusername/top-restaurant.git
 ````
 
-2. Navigate into the project folder:
+2. **Navigate into the project folder**
 
    ```bash
    cd top-restaurant
    ```
-3. Install dependencies:
+
+3. **Install dependencies**
 
    ```bash
    npm install
    ```
-4. Run the development server:
+
+4. **Run the development server**
 
    ```bash
    npm start
    ```
-5. Open your browser and go to:
+
+5. **Open your browser and go to**
 
    ```
    http://localhost:8080
@@ -90,4 +92,5 @@ This project demonstrates dynamic content rendering, DOM manipulation, and modul
 This project is for educational purposes.
 You are free to modify and use it for personal or learning projects.
 
+```
 ```
