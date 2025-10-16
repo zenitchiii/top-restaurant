@@ -1,0 +1,32 @@
+#content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 50px;
+}
+
+#content > div {
+    max-width: 700px;
+    box-shadow: 1px 8px 8px rgba(0,0,0,0.4);
+    width: 100%;
+    background-color: #f5f0c0;
+    text-align: center;
+    overflow: hidden;
+}
+
+h1, h2 {
+    color: #7a4e15
+}
+
+p {
+    color: #3c2f1a;
+}
+
+#content .location {
+    padding-bottom: 40px;
+}
+
+.image img {
+    max-height: 50vh;
+}

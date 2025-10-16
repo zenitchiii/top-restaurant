@@ -1,0 +1,29 @@
+.menuList {
+  background-color: #fffdf5;
+  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.2);
+  max-width: 700px;
+}
+
+.menuList h1 {
+  text-align: center;
+  color: #7a4e15;
+  margin-bottom: 1.5rem;
+}
+
+.menuList ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.menuList li {
+  font-size: 1.15rem;
+  margin: 0.5rem 0;
+  color: #3c2f1a;
+  padding: 8px 12px;
+  border-bottom: 1px solid #e8dfc9;
+}
+
+.menuList li:last-child {
+  border-bottom: none;
+}
