@@ -1,3 +1,5 @@
+---
+
 ````markdown
 # 🍽️ TOP Restaurant
 
@@ -91,6 +93,3 @@ This project demonstrates dynamic content rendering, DOM manipulation, and modul
 
 This project is for educational purposes.
 You are free to modify and use it for personal or learning projects.
-
-```
-```
